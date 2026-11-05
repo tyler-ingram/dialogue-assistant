@@ -57,5 +57,6 @@ To start the lms server to query models
 #In the backend
 lms daemon up
 lms server start
+uv run ./src/main.py
 ```
 ---

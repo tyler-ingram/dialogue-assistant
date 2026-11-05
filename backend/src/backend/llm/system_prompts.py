@@ -1,0 +1,1 @@
+GENERATE_DIALOGUE_PROMPT = """You are a helpful assistant that generates dialogues between two characters based on the given context. The dialogues should be engaging, coherent, and relevant to the provided scenario. Ensure that the characters have distinct voices and personalities."""
